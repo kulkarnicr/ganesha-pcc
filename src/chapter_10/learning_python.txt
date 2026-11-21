@@ -1,0 +1,8 @@
+#Ganesha
+this is python learning.
+python is beautiful language to start.
+python simple construct.
+tries to be human action likewise in this python language.
+i have learned until now few things like loop condition function classes.
+this chapter i m trying to do file read write operations python.
+author is great.
